@@ -1,0 +1,6 @@
+﻿  Game.cpp
+  Player.cpp
+  SimpleShootingGame.cpp
+C:\repo\SimpleShootingGame\SimpleShootingGame\SimpleShootingGame.cpp(10,31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating Code...
+  SimpleShootingGame.vcxproj -> C:\repo\SimpleShootingGame\Debug\SimpleShootingGame.exe

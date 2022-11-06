@@ -1,0 +1,12 @@
+﻿  Bullet.cpp
+C:\repo\SimpleShootingGame\SimpleShootingGame\Bullet.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Enemy.cpp
+C:\repo\SimpleShootingGame\SimpleShootingGame\Enemy.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Game.cpp
+C:\repo\SimpleShootingGame\SimpleShootingGame\Game.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Player.cpp
+C:\repo\SimpleShootingGame\SimpleShootingGame\Player.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  SimpleShootingGame.cpp
+C:\repo\SimpleShootingGame\SimpleShootingGame\Game.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  World.cpp
+C:\repo\SimpleShootingGame\SimpleShootingGame\World.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
